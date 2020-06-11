@@ -1,0 +1,39 @@
+{
+	"orderDetails": {
+		"name": "ST04 AT CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 4,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 2,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "Compensation",
+			"spotlengthTop": 10,
+			"spotlengthMiddle": 5,
+			"spotlengthTail": 15
+		},
+				"upsell": 100000,
+				"abi": {
+				"weeks": "9 Weeks",
+				"discount": -10
+		},
+		"timeRanges": {
+			"startHours": "09",
+			"startMinutes": "00",
+			"endHours": "23",
+			"endMinutes": "00"
+		},
+		"planTimebands": {
+			"startHours": "09",
+			"startMinutes": "30",
+			"endHours": "16",
+			"endMinutes": "30"
+		}
+	}
+}

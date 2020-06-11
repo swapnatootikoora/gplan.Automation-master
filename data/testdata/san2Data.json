@@ -1,0 +1,15 @@
+{
+	"orderDetails": {
+		"name": "SAN2 AT SPATO"
+	},
+	"spatoDetails": {
+		"startIn": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+}

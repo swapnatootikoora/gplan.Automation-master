@@ -1,0 +1,28 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Vizeum",
+		"agencySearchResult": "Vizeum via Astus Barter C2449043",
+		"client": "Shop Direct (C1380179)",
+		"brand": "Littlewoods",
+		"product": "Black Friday",
+		"contact": "Sean Beaven",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"barterOrderDetails": {
+		"name": "SMK002 AT BARTER LOCAL CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 366,
+			"term": "days"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"orderDetails": {
+		"packageSourceName": "SAN6 AT Package Source",
+		"packageOptionName" : "SAN6 AT Package Option"
+	},
+
+	"sourceCatoDetails": {
+		"startIn": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 2,
+			"term": "weeks"
+		}
+	},
+
+	"packageDetails": {
+		"summary": "Package summary",
+		"duration": "3",
+		"tier": "Any tier",
+		"version": "Version 1",
+		"cpm" : "100000",
+		"paymentType" : "Account or Prepay",
+		"sellBetween": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"startBetween": {
+			"count": 10,
+			"term": "weeks"
+		}
+	},
+
+	"packageOptionDetails": {
+		"startFrom": {
+			"count": 2,
+			"term": "weeks"
+		}
+	}
+}

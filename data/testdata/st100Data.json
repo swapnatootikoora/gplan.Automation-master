@@ -1,0 +1,40 @@
+{
+	"orderDetails": {
+		"name": "ST100 AT SPATO"
+	},
+
+	"spatoDetails": {
+		"startIn": {
+			"count": 11,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 3,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "BTA - National",
+			"spotlength": "30"
+		},
+		"baDiscount": -10
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 3,
+			"term": "weeks"
+		}
+	},
+	"billingLineDetails": {
+		"product" : "S&P - Cash Prize",
+		"duration" : "3 months",
+		"monthsAdvance": 4,
+		"value1" : 150.55,
+		"value2" : 234.99,
+		"value3" : 4502.12
+	}
+}

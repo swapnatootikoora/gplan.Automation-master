@@ -1,0 +1,90 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"orderDetailsDirect": {
+		"clientSearch": "BRISTOL",
+		"clientSearchResult": "BRISTOL AIRPORT (C1414157)",
+		"brand": "Bristol Airport",
+		"product": "Bristol Airport",
+		"contact": "James Gore",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+	
+	"catoorderDetails": {
+		"name": "SMK01a AT CATO"
+	},
+	"spatoorderDetails": {
+		"name": "SMK01b AT SPATO"
+	},
+	"spatoLiveReadOrderDetails": {
+		"name": "SMK01c AT SPATO LIVE READ"
+	},
+	"soniqAgencyOrderDetails": {
+		"name": "SMK01d AT SONIQ AGENCY"
+	},
+	"soniqDirectOrderDetails": {
+		"name": "SMK01e AT SONIQ DIRECT"
+	},
+	"catoDetails": {
+		"startIn": {
+			"count": 0,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 366,
+			"term": "days"
+		}
+	},
+	"spatoDetails": {
+		"startIn": {
+			"count": 366,
+			"term": "days"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	},
+	"liveReadDetails": {
+		"startIn": {
+			"count": 8,
+			"term": "weeks"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"product1": {
+			"product": "Live Read",
+			"spotlength": "30"
+		}
+	},
+    "soniqDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"audiences": {
+			"target": "Music Enthusiast"
+	},
+		"budget": 10000,
+			"tacticalDiscount": -10
+	}
+}
+
+

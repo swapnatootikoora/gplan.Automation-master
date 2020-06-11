@@ -1,0 +1,32 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Blue",
+		"agencySearchResult": "BLUE 449 C1290832",
+		"client": "CURRY'S - DIXONS STORES GROUP (C1341177)",
+		"brand": "Currys PC World",
+		"product": "PC world",
+		"contact": "Abi Morrish",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"digitalorderDetails": {
+		"name": "SMK23 AT Digital"
+	},
+
+	"digitalflightDetails": {
+		"product": "Digital CRM",
+		"subProduct": "Pod",
+		"grossRevenue": 10000,
+		"impressions": 10,
+		"startIn": {
+			"count": 15,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+}

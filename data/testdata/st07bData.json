@@ -1,0 +1,29 @@
+{
+	"orderDetails": {
+		"name": "ST07b AT CATO",
+		"clientSearch": "Cousins",
+		"clientSearchResult": "Cousins Furniture Stores Limited (C1283223) C1283223",
+		"brand": "Cousins Furniture Store",
+		"product": "Furniture",
+		"contact": "Robert Shotton",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "days"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		},
+		"tacticalDiscount": -3.66,
+		"baDiscount": -10.45,
+		"abi": {
+			"weeks": "9 Weeks",
+			"discount": -2.3
+		}
+	}
+}

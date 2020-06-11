@@ -1,0 +1,15 @@
+{
+	"orderDetails": {
+		"name": "SAN5 AT BT40"
+	},
+	"bt40Details": {
+		"startIn": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		}
+	}
+}

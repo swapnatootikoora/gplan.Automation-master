@@ -1,0 +1,29 @@
+{
+	"orderDetails": {
+		"name": "ST03 AT CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"duration": {
+			"count": 52,
+			"term": "weeks"
+		},
+		"timeRanges": {
+			"startHours": "06",
+			"startMinutes": "00",
+			"endHours": "19",
+			"endMinutes": "00"
+		},
+		"product1": {
+			"product": "Contra ",
+			"spotlength": "5"
+		},
+		"budget" : 10000,
+		"tacticalDiscount": -10
+		
+	}
+}

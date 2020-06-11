@@ -1,0 +1,34 @@
+{
+	"orderDetails": {
+		"name": "ST01 AT CATO",
+		"jcn": "",
+		"agencySearch": "Starcom",
+		"agencySearchResult": "STARCOM WORLDWIDE LTD (LONDON) C1290723",
+		"client": "PROCTER & GAMBLE LTD UK (C1284316)",
+		"brand": "Ariel",
+		"product": "Ariel",
+		"contact": "Alicia Hall",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 4,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		},
+		"planTimebands": {
+			"startHours": "05",
+			"startMinutes": "00",
+			"endHours": "17",
+			"endMinutes": "00"
+		},
+		"audiences": {
+			"base": "Mainshoppers 15+"
+		}
+	}
+}

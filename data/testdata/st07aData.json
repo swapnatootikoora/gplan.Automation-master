@@ -1,0 +1,32 @@
+{
+	"orderDetails": {
+		"name": "ST07a AT CATO",
+		"clientSearch": "Cousins",
+		"clientSearchResult": "Cousins Furniture Stores Limited (C1283223) C1283223",
+		"brand": "Cousins Furniture Store",
+		"product": "Furniture",
+		"contact": "Robert Shotton",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "days"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		},
+		
+		"timeRanges": {
+			"startHours" : "05",
+			"startMinutes" : "00",
+			"endHours" : "18",
+			"endMinutes" : "00"
+		},
+		"tacticalDiscount": -3.66,
+		"baDiscount": -10.45
+	}
+}

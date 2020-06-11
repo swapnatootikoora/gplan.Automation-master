@@ -1,0 +1,52 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"newslinkorderDetails": {
+		"name": "SMK02 AT NEWSLINK"
+	},
+
+	"bt40orderDetails": {
+		"name": "SMK02a AT BT40"
+	},
+
+	"newslinkDetails": {
+		"startIn": {
+			"count": 15,
+			"term": "weeks"
+		},
+
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		},
+
+		"product1": {
+			"product": "Newslink 1pm Value",
+			"spotlengthTop": "10",
+			"spotlengthMiddle": "10",
+			"spotlengthTail": "10"
+		},
+
+	"bt40Details": {
+		"startIn": {
+			"count": 1,
+			"term": "weeks"
+		},
+
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+	}
+}

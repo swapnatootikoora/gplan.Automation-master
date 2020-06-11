@@ -1,0 +1,43 @@
+{
+	"orderDetails": {
+		"name": "ST10 AT CATO SPATO BILLING LINE"
+	},
+
+	"spatoDetails": {
+		"startIn": {
+			"count": 11,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 3,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "BTA - National",
+			"spotlength": "30"
+		},
+		"baDiscount": -10
+		},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 3,
+			"term": "weeks"
+		}
+	},
+	"billingLineDetails": {
+		"product" : "Commercial Production - Revenue",
+		"monthsAdvance": 6,
+		"duration" : "6 months",
+		"value1" : 123.45,
+		"value2" : 678.91,
+		"value3" : 2345.67,
+		"value4" : 123.45,
+		"value5" : 678.91,
+		"value6" : 234.56
+	}
+}

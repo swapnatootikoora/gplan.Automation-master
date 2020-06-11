@@ -1,0 +1,43 @@
+{
+	"orderDetails": {
+		"name": "ST21 AT CATO"
+	},
+	"catoDetails": {
+		"startIn": {
+			"count": 2,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"audiences": {
+			"target": "AB Adults 15+"
+		},
+		"product1": {
+			"product": "SMS Commercial Airtime",
+			"spotlengthTop": "10",
+			"spotlengthMiddle": "10",
+			"spotlengthTail": "10"
+		},
+		"timeRanges": {
+				"startHours": "01",
+				"startMinutes": "15",
+				"endHours": "23",
+				"endMinutes": "45"
+		},
+		"planTimebands": {
+				"startHours": "09",
+				"startMinutes": "30",
+				"endHours": "16",
+				"endMinutes": "50"
+		},
+				"abi": {
+				"weeks": "9 Weeks",
+				"discount": -10
+		},
+				"budget": 1000000,
+				"upsell": 1000000,
+				"tacticalDiscount": -10
+	}
+}

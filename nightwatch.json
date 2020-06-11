@@ -1,0 +1,68 @@
+{
+  "src_folders" : ["./tests"],
+  "output_folder" : "./reports",
+  "custom_commands_path" : "./commands",
+  "custom_assertions_path" : "",
+  "page_objects_path" : "./pages",
+  "globals_path" : "",
+
+  "selenium" : {
+    "start_process" : true,
+    "server_path": "bin/selenium-server-standalone-3.141.59.jar",
+    "log_path" : "logs",
+    "host" : "127.0.0.1",
+    "port" : 4444,
+
+    "cli_args" : {
+      "webdriver.driver" : "./bin/chromedriver.exe",
+      "webdriver.gecko.driver" : "./bin/geckodriver"
+    }
+  },
+  "test_settings" : {
+    "default" : {
+      "launch_url" : "http://localhost",
+      "selenium_port"  : 4444,
+      "selenium_host"  : "localhost",
+      "silent": true,
+      "screenshots" : {
+        "enabled" : false,
+        "on_failure" : true,
+        "on_error" : true,
+        "path" : "./screenshots"
+      },
+      "desiredCapabilities": {
+        "browserName": "safari",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      },
+      "globals": {
+        "waitForConditionPollInterval": 500,
+        "waitForConditionTimeout": 100000
+      }
+    },
+    "safari": {
+      "desiredCapabilities" : {
+        "browserName" : "safari",
+        "javascriptEnabled" : true,
+        "acceptSslCerts" : true
+      },
+      "filter": "SMK001.js"},
+
+      "chrome": {
+      "desiredCapabilities" : {
+        "browserName" : "chrome",
+        "javascriptEnabled" : true,
+        "acceptSslCerts" : true
+      },
+      "filter": "SAN6.js"},
+
+      "firefox": {
+        "desiredCapabilities" : {
+          "browserName" : "firefox",
+          "javascriptEnabled" : true,
+          "acceptSslCerts" : true
+        },
+        "filter": "SMK01a.js"
+    }
+  }
+}

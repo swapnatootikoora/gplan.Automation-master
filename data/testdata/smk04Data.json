@@ -1,0 +1,40 @@
+{
+	"orderDetailsNational": {
+		"clientSearch": "Bath Ru",
+		"clientSearchResult": "BATH RUGBY (C1281062) C1281062",
+		"brand": "Bath Rugby",
+		"product": "Bath Rugby",
+		"contact": "Vicki Smith",
+		"salesExec": "Alex Goss",
+		"planner": "Alex Goss"
+	},
+
+	"orderDetailsLocal": {
+		"clientSearch": "Bath Ru",
+		"clientSearchResult": "BATH RUGBY (C1281062) C1281062",
+		"brand": "Bath Rugby",
+		"product": "Bath Rugby",
+		"contact": "Vicki Smith",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"catoOrderDetails": {
+		"nameLocal": "SMK04 AT Direct Client Local CATO",
+		"nameNational": "SMK04 AT Direct Client National CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 8,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "day"
+		},
+		"tacticalDiscount": -3.66,
+		"baDiscount": -10.45,
+		"budget": 20000
+		}
+}

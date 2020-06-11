@@ -1,0 +1,31 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"daxorderDetails": {
+		"name": "SMK03 AT DAX"
+	},
+
+	"daxDetails": {
+		"grossRevenue": 10000,
+		"cpm": 10,
+		"audioSource": "Other",
+		"startIn": {
+			"count": 15,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+}

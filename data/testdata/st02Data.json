@@ -1,0 +1,33 @@
+{
+	"orderDetails": {
+		"name": "ST02 AT CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 3,
+			"term": "days"
+		},
+		"duration": {
+			"count": 4,
+			"term": "weeks"
+		},
+		"timeRanges": {
+			"startHours": "05",
+			"startMinutes": "00",
+			"endHours": "22",
+			"endMinutes": "00"
+		},
+		"audiences": {
+			"target": "Persons 10+"
+		},
+		"product1": {
+			"product": "Commercial Airtime",
+			"spotlengthTop": "10",
+			"spotlengthMiddle": "10",
+			"spotlengthTail": "10"
+		},
+		"budget": 1000,
+		"tacticalDiscount": -10
+	}
+}

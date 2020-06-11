@@ -1,0 +1,33 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Blue",
+		"agencySearchResult": "BLUE 449 C1290832",
+		"client": "CURRY'S - DIXONS STORES GROUP (C1341177)",
+		"brand": "Currys PC World",
+		"product": "PC world",
+		"contact": "Abi Morrish",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"catoorderDetails": {
+		"name": "SMK20 AT CATO IS"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 5,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 12,
+			"term": "weeks"
+		}
+	},
+
+	"invoiceScheduleDetails": {
+		"name" : "SMK20 AT"
+	}
+
+}

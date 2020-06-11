@@ -1,0 +1,24 @@
+{
+	"orderDetails": {
+		"name": "ST20 AT CATO"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 2,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "Value Pot",
+			"spotlengthTop": "10",
+			"spotlengthMiddle": "10",
+			"spotlengthTail": "10"
+		},
+		"budget": 100000,
+		"tacticalDiscount": -10
+	}
+}

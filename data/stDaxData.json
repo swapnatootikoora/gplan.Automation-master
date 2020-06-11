@@ -1,0 +1,30 @@
+{
+	"username": "gplan.testuser@thisisglobal.com",
+	"password": "E.G0mme",
+	"url": "http://gplantest.thisisglobal.com",
+
+	"orderDetails": {
+		"local": {
+			"name": "DAX",
+			"jcn": "",
+			"agencySearch": "Blue",
+			"agencySearchResult": "BLUE 449",
+			"client": "CURRY'S - DIXONS STORES GROUP (C1341177)",
+			"brand": "Currys PC World",
+			"product": "PC world",
+			"contact": "Abi Morrish",
+			"salesExec": "Abe Robinson",
+			"planner": "Abe Robinson"
+
+	}},
+
+		"DAX Details": {
+		"blProduct" : "S&P - Cash Prize",
+		"blDuration" : "3 months",
+		"value1" : 150.55,
+		"value2" : 234.99,
+		"value3" : 4502.12
+
+}
+
+}

@@ -1,0 +1,44 @@
+{
+	"orderDetailsNational": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"orderDetailsLocal": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"catoorderDetails": {
+		"name": "SMK22 AT OPE AVAIL",
+		"nameLocal": "SMK22 AT OPE LOC",
+		"nameNational": "SMK22 AT OPE NAT",
+		"nameNationalAvail": "SMK22 AT AVAIL NAT"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 31,
+			"term": "days"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		}
+	}
+
+}

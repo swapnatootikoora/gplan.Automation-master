@@ -1,0 +1,22 @@
+{
+	"orderDetails": {
+		"name": "SAN1 AT CATO"
+	},	
+	"catoDetails": {
+		"startIn": {
+			"count": 52,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		},
+		"timeRanges": {
+			"startHours" : "07",
+			"startMinutes" : "15",
+			"endHours" : "09",
+			"endMinutes" : "15"
+		}
+		
+	}
+}

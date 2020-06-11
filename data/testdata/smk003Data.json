@@ -1,0 +1,66 @@
+{
+	"orderDetailsNational": {
+		"clientSearch": "Bath Ru",
+		"clientSearchResult": "BATH RUGBY (C1281062) C1281062",
+		"brand": "Bath Rugby",
+		"product": "Bath Rugby",
+		"contact": "Vicki Smith",
+		"salesExec": "Alex Goss",
+		"planner": "Alex Goss"
+	},
+
+	"orderDetailsLocal": {
+		"clientSearch": "Bath Ru",
+		"clientSearchResult": "BATH RUGBY (C1281062) C1281062",
+		"brand": "Bath Rugby",
+		"product": "Bath Rugby",
+		"contact": "Vicki Smith",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"catoOrderDetails": {
+		"nameLocal": "SMK003 AT Direct Client Local CATO",
+		"nameNational": "SMK003 AT Direct Client National CATO"
+	},
+
+	"localCatoDetails": {
+		"startIn": {
+			"count": 0,
+			"term": "days"
+		},
+		"duration": {
+			"count": 52,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "Commercial Airtime",
+			"spotlengthTop": "10",
+			"spotlengthMiddle": "10",
+			"spotlengthTail": "10"
+		},
+		"tacticalDiscount": -70,
+		"baDiscount": -70,
+		"budget": 100000
+		},
+
+	"nationalCatoDetails": {
+		"startIn": {
+			"count": 366,
+			"term": "days"
+		},
+		"duration": {
+			"count": 52,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "Value Pot",
+			"spotlengthTop": "5",
+			"spotlengthMiddle": "5",
+			"spotlengthTail": "5"
+		},
+			"tacticalDiscount": 300,
+			"baDiscount": 300,
+			"budget": 100000
+		}
+}

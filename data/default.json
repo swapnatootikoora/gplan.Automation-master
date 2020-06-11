@@ -1,0 +1,79 @@
+{
+	"username": "gplan.testuser@thisisglobal.com",
+	"password": "E.G0mme",
+	"url": "https://gplantest.thisisglobal.com",
+
+	"orderDetails": {
+		"local": {
+			"name": "Local test order",
+			"agencySearch": "Arena",
+			"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+			"client": "Emirates (London) (C1382186)",
+			"brand": "Emirates",
+			"product": "Recruitment",
+			"contact": "Abi Ward",
+			"salesExec": "Abe Robinson",
+			"planner": "Abe Robinson"
+		},
+		"regional": {
+			"name": "Regional test order",
+			"agencySearch": "Arena",
+			"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+			"client": "Emirates (London) (C1382186)",
+			"brand": "Emirates",
+			"product": "Recruitment",
+			"contact": "Abi Ward",
+			"salesExec": "Alex Goss",
+			"planner": "Alex Goss"
+		},
+		"national": {
+			"name": "National test order",
+			"agencySearch": "Arena",
+			"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+			"client": "Emirates (London) (C1382186)",
+			"brand": "Emirates",
+			"product": "Recruitment",
+			"contact": "Abi Ward",
+			"salesExec": "Andrew Gibson",
+			"planner": "Andrew Gibson"
+		}
+	},
+
+	"revenueRecordPluto": {
+		"system": "Aldis",
+		"directClientSearch": "chords",
+		"clientSearchResult": "3 Chords Festival (Events Co Cornwall) (C2449193)",
+		"salesExec": "Aby Harris"
+	},
+
+	"airtimeDetails": {
+		"name": "Test airtime option",
+		"startHour": "06",
+		"startMinute": "15",
+		"endHour": "20",
+		"endMinute": "15",
+		"budget": 1000,
+		"upsellTo": "",
+		"tacticalDiscount": -10
+	},
+
+	"day":{
+		"monday" : 2,
+		"tuesday" : 3,
+		"wednesday" : 4,
+		"thursday" : 5,
+		"friday" : 6,
+		"saturday" : 7,
+		"sunday" : 8
+	},
+
+	"daypart":{
+		"NHT" : 1,
+		"BRK" : 2,
+		"MRN" : 3,
+		"AFT" : 4,
+		"DRV" : 5,
+		"EVE" : 6
+
+	}
+}

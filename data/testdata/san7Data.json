@@ -1,0 +1,15 @@
+{
+	"orderDetails": {
+		"name": "SAN7 AT NEWSLINK"
+	},
+	"newslinkDetails": {
+		"startIn": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}		
+	}
+}

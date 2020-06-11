@@ -1,0 +1,27 @@
+{
+	"orderDetails": {
+		"clientSearch": "Global Br",
+		"clientSearchResult": "GLOBAL BRANDS (GLOBAL RADIO) (C1380961) C1380961",
+		"brand": "Beauty Box",
+		"product": "Beauty Box",
+		"contact": "Callum Grant",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"catoorderDetails": {
+		"name": "SMK21 AT FIX AND OVERSELL"
+	},
+
+	"catoDetails": {
+		"startIn": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+
+}

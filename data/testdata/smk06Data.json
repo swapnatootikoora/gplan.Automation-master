@@ -1,0 +1,51 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"digitalOrderDetails": {
+		"name": "SMK06 AT DIGITAL"
+	},
+
+	"digitalDetails": {
+		"startIn": {
+			"count": 4,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 4,
+			"term": "weeks"
+		}
+	},
+
+	"flightProducts": {
+		"productA": "Digital CRM",
+		"subProductA": "Pod",
+		"productB": "Direct Digital Display",
+		"subProductB": "Billboard"
+	},
+
+	"flightDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 2,
+			"term": "weeks"
+		}
+	},
+
+	"revenue": {
+			"grossRevenue": 10000,
+			"impressions": 100
+		}
+	}

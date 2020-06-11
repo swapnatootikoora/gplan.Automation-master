@@ -1,0 +1,118 @@
+{
+	"orderDetails": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"orderDetailsDirect": {
+		"clientSearch": "BRISTOL",
+		"clientSearchResult": "BRISTOL AIRPORT (C1414157)",
+		"brand": "Bristol Airport",
+		"product": "Bristol Airport",
+		"contact": "James Gore",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+	
+	"catoOrderDetails": {
+		"nameNational": "SMK001 AT AGENCY NATIONAL CATO",
+		"nameLocalCps": "SMK001b AT AGENCY LOCAL CPS CATO",
+		"nameLocalCpt": "SMK001c AT AGENCY LOCAL CPT CATO"
+	},
+	"spatoOrderDetails": {
+		"name": "SMK01b AT SPATO"
+	},
+	"spatoLiveReadOrderDetails": {
+		"name": "SMK01c AT SPATO LIVE READ"
+	},
+	"soniqAgencyOrderDetails": {
+		"name": "SMK01d AT SONIQ AGENCY"
+	},
+	"soniqDirectOrderDetails": {
+		"name": "SMK01e AT SONIQ DIRECT"
+	},
+	"cato01Details": {
+		"startIn": {
+			"count": 0,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	},
+
+	"cato02Details": {
+		"startIn": {
+			"count": 0,
+			"term": "days"
+		},
+		"duration": {
+			"count": 52,
+			"term": "weeks"
+		},
+		"timeRanges": {
+			"startHours": "06",
+			"startMinutes": "00",
+			"endHours": "19",
+			"endMinutes": "00"
+		},
+		"budget": 100000,
+		"tacticalDiscount": -70.00
+	},
+
+	"spatoDetails": {
+		"startIn": {
+			"count": 366,
+			"term": "days"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	},
+	"liveReadDetails": {
+		"startIn": {
+			"count": 8,
+			"term": "weeks"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"timeRanges": {
+			"startHours": "05",
+			"startMinutes": "00",
+			"endHours": "22",
+			"endMinutes": "00"
+	},
+		"product1": {
+			"product": "Live Read",
+			"spotlength": "30"
+		}
+	},
+    "soniqDetails": {
+		"startIn": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+	},
+		"audiences": {
+			"target": "Music Enthusiast"
+	},
+		"budget": 10000,
+		"tacticalDiscount": -10
+	}
+}
+
+

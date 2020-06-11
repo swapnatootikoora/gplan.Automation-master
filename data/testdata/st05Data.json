@@ -1,0 +1,30 @@
+{
+	"orderDetails": {
+		"name": "ST05 AT CATO"
+	},
+	"catoDetails": {
+		"startIn": {
+			"count": 6,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "days"
+		},
+		"product1": {
+			"product": "Contra ",
+			"spotlength": "10"
+		},
+		"product2": {
+			"product": "Compensation",
+			"spotlength": "15"
+		},
+		"timeRanges": {
+			"startHours" : "07",
+			"startMinutes" : "00",
+			"endHours" : "00",
+			"endMinutes" : "00"
+		},
+		"tacticalDiscount": -10
+	}
+}

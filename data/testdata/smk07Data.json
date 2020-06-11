@@ -1,0 +1,48 @@
+{
+	"orderDetailsNational": {
+		"jcn": "",
+		"agencySearch": "Starcom",
+		"agencySearchResult": "STARCOM WORLDWIDE LTD (LONDON) C1290723",
+		"client": "HEINEKEN (C1383735)",
+		"brand": "Bulmers",
+		"product": "Bulmers",
+		"contact": "Alex Kenzie",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"orderDetailsLocal": {
+		"jcn": "",
+		"agencySearch": "Starcom",
+		"agencySearchResult": "STARCOM WORLDWIDE LTD (LONDON) C1290723",
+		"client": "HEINEKEN (C1383735)",
+		"brand": "Bulmers",
+		"product": "Bulmers",
+		"contact": "Alex Kenzie",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"catoorderDetails": {
+		"name": "SMK07 AT CATO BAIG",
+		"nameLocal": "SMK07 AT Agency Local CATO BAIG",
+		"nameNational": "SMK07 AT Agency National CATO BAIG"
+	},
+
+	"catoDetails": {
+		"startInA": {
+			"count": 1,
+			"term": "week"
+		},
+		"startInB": {
+			"count": 30,
+			"term": "days"
+		},
+		"duration": {
+			"count": 2,
+			"term": "weeks"
+		},
+		"budget": 10000,
+		"tacticalDiscount": -10
+		}
+	}

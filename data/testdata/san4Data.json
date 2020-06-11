@@ -1,0 +1,18 @@
+{
+	"orderDetails": {
+		"name": "SAN4 AT DAX"
+	},
+	"daxDetails": {
+		"grossRevenue" : 1000,
+		"cpm" : 5,
+		"audioSource" : "Other",
+		"startIn": {
+			"count": 10,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		}
+	}
+}

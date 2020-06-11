@@ -1,0 +1,22 @@
+{
+	"orderDetails": {
+		"name": "ST08 AT SPATO"
+	},
+
+	"spatoDetails": {
+		"startIn": {
+			"count": 12,
+			"term": "weeks"
+		},
+		"duration": {
+			"count": 1,
+			"term": "weeks"
+		},
+		"product1": {
+			"product": "BTA - National",
+			"spotlength": "30"
+		},
+		"tacticalDiscount": -10,
+		"baDiscount": -10
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"orderDetails": {
+		"name": "SAN3 AT BILLING LINE"
+	},
+	"billingLineDetails": {
+		"product" : "Commercial Production - Revenue",
+		"monthsAdvance": 3,
+		"duration" : "6 months",
+		"value1" : 123.45,
+		"value2" : 678.90,
+		"value3" : 123.45,
+		"value4" : 678.90,
+		"value5" : 123.45,
+		"value6" : 678.90
+	}
+}

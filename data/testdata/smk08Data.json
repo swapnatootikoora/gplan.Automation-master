@@ -1,0 +1,54 @@
+{
+	"orderDetailsAgencyNational": {
+		"jcn": "",
+		"agencySearch": "Arena",
+		"agencySearchResult": "ARENA MEDIA LIMITED C1290841",
+		"client": "Emirates (London) (C1382186)",
+		"brand": "Emirates",
+		"product": "Recruitment",
+		"contact": "Abi Ward",
+		"salesExec": "Andrew Gibson",
+		"planner": "Andrew Gibson"
+	},
+
+	"orderDetailsDirectLocal": {
+		"clientSearch": "BRISTOL",
+		"clientSearchResult": "BRISTOL AIRPORT (C1414157)",
+		"brand": "Bristol Airport",
+		"product": "Bristol Airport",
+		"contact": "James Gore",
+		"salesExec": "Abe Robinson",
+		"planner": "Abe Robinson"
+	},
+
+	"orderDetailsNational": {
+		"name": "SMK08a AT BILLING LINE NATIONAL CPT"
+	},
+	"billingLineDetailsNational": {
+		"product" : "Commercial Production - Revenue",
+		"monthsAdvance": 3,
+		"duration" : "6 months",
+		"value1" : 150.55,
+		"value2" : 234.99,
+		"value3" : 4502.12,
+		"value4" : 123.45,
+		"value5" : 678.91,
+		"value6" : 234.56
+	},
+
+	"orderDetailsLocal": {
+		"name": "SMK08b AT BILLING LINE LOCAL CPS"
+	},
+	"billingLineDetailsLocal": {
+		"product" : "Commercial Production - Revenue",
+		"monthsAdvance": 3,
+		"duration" : "6 months",
+		"value1" : 123.45,
+		"value2" : 678.91,
+		"value3" : 2345.67,
+		"value4" : 123.45,
+		"value5" : 678.91,
+		"value6" : 234.56
+	}
+
+}
