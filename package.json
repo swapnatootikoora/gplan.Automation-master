@@ -13,7 +13,7 @@
     "gulp": "^3.8.11",
     "gulp-nightwatch": "^0.3.3",
     "jsonfile": "^2.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimatch": "^3.0.4",
     "moment": "^2.24.0",
     "nightwatch": "^0.9.21",
